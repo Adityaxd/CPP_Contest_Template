@@ -41,15 +41,16 @@ static void fast_io() {                                  // Function to speed up
 #endif
 
 // ==================== SOLVER FUNCTION ====================
+// ==================== WRITE CODE HERE ====================
 void solve() {
-    // Example: reading an integer and printing it back
+   
     int n;
-    cin >> n;                                            // Read input :contentReference[oaicite:28]{index=28}
-    debug(n);                                            // Debug print (only active locally) :contentReference[oaicite:29]{index=29}
+    cin >> n;                                            
+    debug(n);                                            
 
     // Problem-specific logic goes here
-    // For demonstration, we’ll just print n * 2
-    cout << (2LL * n) << '\n';                          // Output answer :contentReference[oaicite:30]{index=30}
+
+    cout << n << '\n';                          // Output answer 
 }
 
 // ==================== MAIN FUNCTION ====================

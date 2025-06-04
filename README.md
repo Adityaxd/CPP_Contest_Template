@@ -15,8 +15,7 @@ This repository hosts a C++ Competitive Programming (CP) template designed to pr
 ```plaintext
 .
 ├── CP_Template.cpp      # Main C++ template file
-├── README.md            # This README document
-└── LICENSE              # License information
+└── README.md            # This README document
 ```
 
 * `CP_Template.cpp` contains all the boilerplate code (headers, macros, debug utilities, and `solve()`/`main()` structure) ([github.com][2], [github.com][3]).
